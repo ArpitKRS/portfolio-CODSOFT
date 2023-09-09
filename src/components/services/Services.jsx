@@ -83,7 +83,7 @@ const Services = () => {
 
         <article className="service">
           <div className="service__head">
-            <h3>MACHINE LEARNING</h3>
+            <h3>Blockchain</h3>
           </div>
 
           <ul className="service__list">

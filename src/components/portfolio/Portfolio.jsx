@@ -18,7 +18,7 @@ const Portfolio = () => {
           <div className="portfolio__item-image">
             <img src={IMG1} alt="" />
           </div>
-          <h3>This is a portfolio item title</h3>
+          <h3>Project 1</h3>
           <div className="portfolio__item-cta">
             <a href="https://github.com" className='btn'>GitHub</a>
             <a href="" className='btn btn-primary' target='_blank'>Live Demo</a>
@@ -29,7 +29,7 @@ const Portfolio = () => {
           <div className="portfolio__item-image">
             <img src={IMG2} alt="" />
           </div>
-          <h3>This is a portfolio item title</h3>
+          <h3>Project 2</h3>
           <div className="portfolio__item-cta">
             <a href="https://github.com" className='btn'>GitHub</a>
             <a href="" className='btn btn-primary' target='_blank'>Live Demo</a>
@@ -40,7 +40,7 @@ const Portfolio = () => {
           <div className="portfolio__item-image">
             <img src={IMG3} alt="" />
           </div>
-          <h3>This is a portfolio item title</h3>
+          <h3>Project 3</h3>
           <div className="portfolio__item-cta">
             <a href="https://github.com" className='btn'>GitHub</a>
             <a href="" className='btn btn-primary' target='_blank'>Live Demo</a>
@@ -51,7 +51,7 @@ const Portfolio = () => {
           <div className="portfolio__item-image">
             <img src={IMG4} alt="" />
           </div>
-          <h3>This is a portfolio item title</h3>
+          <h3>Project 4</h3>
           <div className="portfolio__item-cta">
             <a href="https://github.com" className='btn'>GitHub</a>
             <a href="" className='btn btn-primary' target='_blank'>Live Demo</a>
@@ -62,7 +62,7 @@ const Portfolio = () => {
           <div className="portfolio__item-image">
             <img src={IMG5} alt="" />
           </div>
-          <h3>This is a portfolio item title</h3>
+          <h3>Project 5</h3>
           <div className="portfolio__item-cta">
             <a href="https://github.com" className='btn'>GitHub</a>
             <a href="" className='btn btn-primary' target='_blank'>Live Demo</a>
@@ -73,7 +73,7 @@ const Portfolio = () => {
           <div className="portfolio__item-image">
             <img src={IMG6} alt="" />
           </div>
-          <h3>This is a portfolio item title</h3>
+          <h3>Project 6</h3>
           <div className="portfolio__item-cta">
             <a href="https://github.com" className='btn'>GitHub</a>
             <a href="" className='btn btn-primary' target='_blank'>Live Demo</a>
